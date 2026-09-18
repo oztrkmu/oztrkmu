@@ -1,12 +1,14 @@
 Hi, I'm Murat.
 
-Software engineer focused on systems programming, Linux, and networking.
+I write C and spend most of my time around Linux, networks and low-level stuff.
 
-Most of my work revolves around C, Linux, TCP/IP, sockets, debugging, and figuring out why things break at 3 AM.
+TCP/IP, sockets, POSIX, debugging, memory, processes. I like knowing what the machine is actually doing instead of hiding everything behind another layer.
 
-I like building simple, reliable software and understanding how things work beneath the abstractions.
+I keep my code simple, small and boring when possible. If something breaks, I want to know why.
+Sometimes that means staring at gdb at 3 AM.
 
-Tech: C, C#, Linux, POSIX, TCP/IP, sockets, git, gdb, make, bash
+**Tools:** C, C#, Linux, POSIX, TCP/IP, sockets, git, gdb, make, bash
 
-LinkedIn:
+**LinkedIn:**
 https://www.linkedin.com/in/oztrkmu/
+Note: low tolerance for drama, overengineering and unnecessary bullshit
